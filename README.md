@@ -10,6 +10,7 @@ ESP32 based controller for high-current PWM dimming and long-distance addressabl
 - Small outline - 100x100mm
 - Optional TVS diodes when assembled using cheaper transceivers
 - Compatible with [the WLED project](https://kno.wled.ge/)
+- You can find the gerbers, BOM, and PnP files in the Outputs folder if you want to manufacture your own!
   
 ![PCB render](/Documentation/pers_top.png)
 
